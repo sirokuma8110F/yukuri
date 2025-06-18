@@ -1,3 +1,0 @@
-202506170932: [make]| /index.html, /news.html, /script_01.js, /styles.css
-202506170933: [upload]| /yt-icon.jpg
-2025061709
